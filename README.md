@@ -3,6 +3,15 @@
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 <table>
     <tr>
+        <td>Blogs</td>
+    </tr>
+</table>
+<ul>
+<li><a href="https://gijn.org/tracking-planes-and-ships-tips-from-experts/">GIJN</a></li>
+ <p>Tracking planes and ships: Tips from experts.</p>
+</ul>
+<table>
+    <tr>
         <td>Flight & Plane Resources</td>
     </tr>
 </table>
