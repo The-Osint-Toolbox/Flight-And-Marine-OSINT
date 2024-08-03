@@ -37,7 +37,7 @@
         <td>Ships</td>
     </tr>
 </table>
- <ul>
-    <li><a href="https://www.fqaregister.service.gov.uk/browse#tabs=0">Fixed Quota Allocation Register</a></li>
-     <p>A list of fishing vessel licence and entitlement holders who hold FQA units.</p>
- </ul>
+ <ul>
+   <li><a href="https://www.fqaregister.service.gov.uk/browse#tabs=0">Fixed Quota Allocation Register</a></li>
+    <p>A list of fishing vessel licence and entitlement holders who hold FQA units.</p>
+ </ul>
