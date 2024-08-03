@@ -1,6 +1,6 @@
 # Flight-And-Marine-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+ <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 <table>
     <tr>
         <td>Blogs</td>
@@ -37,3 +37,7 @@
         <td>Ships</td>
     </tr>
 </table>
+ <ul>
+    <li><a href="https://www.fqaregister.service.gov.uk/browse#tabs=0">Fixed Quota Allocation Register</a></li>
+     <p>A list of fishing vessel licence and entitlement holders who hold FQA units.</p>
+ </ul>
