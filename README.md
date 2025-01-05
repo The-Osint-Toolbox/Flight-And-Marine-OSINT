@@ -25,6 +25,8 @@
  <p>FlightAware is a digital aviation company and operates the world's largest flight tracking and data platform.</p>
 <li><a href="https://flightradar24.com/">Flight Radar</a></li>
  <p>Flightradar24 is a Swedish internet-based service that shows real-time aircraft flight tracking information on a map.</p>
+<li><a href="https://flight-status.com/">Flight Status Tracker</a></li> 
+ <p>Flight status tracker - Check the current status of your flight.</p>
 <li><a href="https://planefinder.net/">Plane Finder</a></li> 
  <p>Plane Finder has a global network of data feeds and radars that receive data broadcast directly from aircraft.</p>
 <li><a href="https://www.planespotters.net/">Plane Spotter</a></li>
