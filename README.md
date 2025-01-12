@@ -44,4 +44,6 @@
  <ul>
    <li><a href="https://www.fqaregister.service.gov.uk/browse#tabs=0">Fixed Quota Allocation Register</a></li>
     <p>A list of fishing vessel licence and entitlement holders who hold FQA units.</p>
+   <li><a href="https://www.shipspotting.com/">Ship Spotting</a></li>
+     <p>World's Central for Ship Photography and Information.</p>
  </ul>
